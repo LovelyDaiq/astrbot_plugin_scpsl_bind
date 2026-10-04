@@ -1,2 +1,2 @@
 # astrbot_plugin_scpsl_bind
-这是一个astrbot平台的SCPSL服务器QQ机器人战绩查询系统
+这是一个astrbot/koishi平台的SCPSL服务器QQ机器人战绩查询系统
